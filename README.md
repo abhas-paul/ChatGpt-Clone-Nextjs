@@ -2,6 +2,8 @@
 
 A simple ChatGPT clone built with Next.js and Tailwind CSS.
 
+**Live Demo **: (ChatGpt-Clone){https://chat-gpt-clone-nextjs-theta.vercel.app/}
+
 ## Features ✨
 
 - 💬 Chat interface
